@@ -1,0 +1,209 @@
+* {
+		margin: 0px;
+		padding: 0px;
+}
+body{
+	background-color: #f0f0f0;
+	font-size: 14px;
+	font-color: #000000;
+	margin:5px;
+}
+
+footer{
+	margin: 5px;
+	margin-left:10%;	width:80%;/*margin-top: 25px;*/text-align:center;  
+	/* min-height: 70%;
+    min-height: -webkit-calc(100% - 186px);
+    min-height: -moz-calc(100% - 186px);
+    min-height: calc(100% - 186px);*/}
+#wrapper{
+	/*width: 800px;*/
+	
+	margin-left: 10%;
+	width: 80%;
+	/*margin-right: 10%;*/
+}
+
+#topbar{
+	width:100%;
+	font-size: 20px;
+	margin-bottom:1px;
+	float:down;
+	/*background: #f0f0f0;*/
+	padding: 3px;
+	text-align:center;
+	
+	
+	
+}
+.push{
+	/*background:#f0f0f0;*/
+	width:80%;
+	margin-left: 10%;
+	font-color:	#545252;
+	padding: 2px;
+	text-align:center;
+	/*text-decoration:none;*/
+	
+}
+#header{
+
+	background-color: #f0f0f0;
+	width: 100%;
+	/*height: 70px;*/
+	margin-bottom: 5px;
+}
+#WaukeshaWest {
+	/*text-shadow: 3px 3px 3px #ffffff;*/
+	color:#545252;
+	/*font:50px Times New Roman, serif;*/
+	font-family:Gill Sans Extrabold, sans-serif;
+	font-size: 40px;
+	margin: 10px 0px 0px 10px;
+	text-align: center;
+	margin-bottom:5px;
+	margin-left:30%;
+	font-weight:light;
+		margin-left:auto;
+		margin-right:auto;
+	 /*text-shadow: 5px 5px 5px #000000;*/
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #000000;
+   /* margin: 1em 0;*/
+    padding: 0;
+}
+#logo {
+	/*text-shadow: 3px 3px 3px #ffffff;*/
+	color:#0000FF;
+	/*font:50px Times New Roman, serif;*/
+	font-family: Castellar;
+	font-size: 50px;
+	margin: 10px 0px 0px 10px;
+	text-align: center;
+	margin-bottom:5px;
+	margin-top:5px;
+	font-weight:900;
+	margin-left:auto;
+	margin-right:auto;
+	 /*text-shadow: 5px 5px 5px #000000;*/
+}
+#categories{
+	background-color: #6666FF;
+	width: 100%;
+	height: auto;
+	margin-top:5px;
+	margin-bottom: 15px;
+}
+.blogpost-grid-left {
+	background-color: #ffffff;
+	padding: 5px;
+	border: 1px solid #cccccc;
+	margin-bottom: 5px;
+	width:50%;
+	float: left;
+	margin-right: 10px;
+}
+.blogpost-grid-left {
+	background-color: #ffffff;
+	padding: 5px;
+	border: 1px solid #cccccc;
+	margin-bottom: 5px;
+	width:47%;
+	float: left;
+	margin: 5px;
+	display: inline-block;
+}
+
+.blogpost-grid-right {
+	background-color: #ffffff;
+	padding: 5px;
+	border: 1px solid #cccccc;
+	margin-bottom: 5px;
+	width:50%;
+	/*float: right;*/
+	margin-right: 10px;
+	display: inline-block;
+}
+.blogpost {
+	background-color: #ffffff;
+	padding: 5px;
+	border: 1px solid #cccccc;
+	margin-bottom: 5px;
+}
+.btn-group-bottom .button1 {
+	/*position:fixed;*/
+    background-color: #6666FF; 
+	
+    border: 5px;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 100%;
+    cursor: pointer;
+    width: 250;
+    cursor:pointer;
+	font-weight:bold;
+	font: 15px  Georgia, serif;
+
+   /* float:left;*/
+
+	opacity:0.75;
+}
+
+#img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+	text-align:center;
+}
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.btn-group-bottom .button1:hover {
+    background-color: #4747B2;
+    color:Black;
+    font-weight:bold;
+	
+}
+
+.btn-group .button {
+    background-color: black; 
+    border: 0px;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 150%;
+    cursor: pointer;
+    width: 100%;
+	height: 10%;
+    display: block;
+	opacity:0.75;
+}
+
+a{
+	text-decoration:none;
+	color: black;
+}
+h1{
+	text-align: center;
+	font-size: 23px;
+	text-align: center;
+}
+h2{
+	font-size: 35px;
+	text-align: center;
+	margin-bottom:15px;
+
+}
+p{
+	text-align: center;
+	margin-bottom:15px;
+	margin-top:15px;
+}
